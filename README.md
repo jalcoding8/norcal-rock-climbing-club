@@ -4,7 +4,7 @@
 # Description   
 
 
-###  **<span style="text-decoration:underline">Norcal Rock Climbing Club</span>** is a fictitious local club website to demonstrate responsive design tools.
+###  **<span style="text-decoration:underline">Norcal Rock Climbing Club</span>** is a fictional local club website to demonstrate responsive design tools.
 
 ####  The thrust of the project is constructing a website that dynamically responds as screen size is adjusted.
   *  I opted to create my own mock website for an actual rock climbing group I belong to.
