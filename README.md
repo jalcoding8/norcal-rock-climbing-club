@@ -34,7 +34,7 @@
    *  This project uses HTML5 and CSS3, with an emphasis on responsive design tools.
    *  The README.md utilized the Markdown language syntax and includes an image of the favicon.
    *  This project was completed in Visual Studio Code, GitHub and Bash Terminal.
-   * [Click here to view](https://jalcoding8.norcal-rock-climbing-club.github.io//)
+   * [Click here to view](https://jalcoding8.norcal-rock-climbing-club.github.io/)
      
  
    
