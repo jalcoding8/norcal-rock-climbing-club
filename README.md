@@ -1,4 +1,4 @@
-<img width="140" height="80" alt="A rock climbing image" src="./images/rock-club.png"/>
+<img width="150" height="80" alt="A rock climbing image" src="./images/rock-club.png"/>
 
 
 # Description   
