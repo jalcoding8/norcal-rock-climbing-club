@@ -23,7 +23,7 @@
    *  contact.html
    *  membership.html
    *  equipment.html
-   *  terms.htmls]
+   *  terms.html
    *  privacy.html
    *  .gitignore
    *  Favicon tab image placed in root directory
