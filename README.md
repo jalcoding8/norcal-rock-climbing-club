@@ -7,7 +7,7 @@
 ###  **Norcal Rock Climbing Club** is a fictitious local club website to demonstrate responsive design tools.
 
 ####  The thrust of the project is constructing a website that dynamically responds as screen size is adjusted.
-  *  I opted to create my own mock webpage for an actual rock climbing group I belong to.
+  *  I opted to create my own mock website for an actual rock climbing group I belong to.
   *  I included functional nav anchor tags for Contact, Membership, Equipment.
   *  At the bottom of the website the nav anchor tags for Terms and Privacy are also functional.
   *  Media queries were used for screen size consideration.
