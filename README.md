@@ -27,7 +27,7 @@
    *  privacy.html
    *  .gitignore
    *  Favicon tab image placed in root directory
-   *  <img src="favicon.png" alt="A mountain" width="50" height="50" />
+   *  <img src="mountain.jpeg" alt="A mountain" width="50" height="50" />
       
 
 ## General Information
