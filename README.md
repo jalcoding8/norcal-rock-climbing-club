@@ -4,7 +4,7 @@
 # Description   
 
 
-###  **<span style="text-decoration:underline">Norcal Rock Climbing Club</span>** is a fictional local club website to demonstrate responsive design tools.
+###  **<span style="text-decoration: underline">Norcal Rock Climbing Club</span>** is a fictional local club website to demonstrate responsive design tools.
 
 ####  The thrust of the project is constructing a website that dynamically responds as screen size is adjusted.
   *  I opted to create my own mock website for an actual rock climbing group I belong to.
@@ -34,7 +34,7 @@
    *  This project uses HTML5 and CSS3, with an emphasis on responsive design tools.
    *  The README.md utilized the Markdown language syntax and includes an image of the favicon.
    *  This project was completed in Visual Studio Code, GitHub and Bash Terminal.
-   * [Click here to view](https://jalcoding8.github.io//)
+   * [Click here to view](https://jalcoding8.github.io/norcal-rock-climbing-club/)
      
  
    
