@@ -130,16 +130,16 @@ h2, h3 {
 .image-large {
     margin-top: 80px;
     background-image: url("./images/salt-point-stack.jpeg");
-    min-height: 500px;
+    min-height: 620px;
     padding: 40px 20px;
-    max-width: fit-content;
+    width: 1520px;
     margin-left: 80px;
     background-size: cover;
 }
 
 
 .image-large img {
-    width: 1600px;
+    /*width: 1200px;*/
     height: auto;
     margin-top: 40px;
 }
@@ -240,7 +240,7 @@ h2, h3 {
     padding: 40px 20px;
     color: white;
     text-align: center;
-    max-width: 1220px;
+    max-width: 1520px;
     margin-left: 80px;
     background-size: cover;
     margin-top: 50px;
