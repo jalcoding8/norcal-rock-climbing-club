@@ -131,9 +131,10 @@ h2, h3 {
     margin-top: 80px;
     background-image: url("./images/salt-point-stack.jpeg");
     min-height: 620px;
-    padding: 40px 20px;
-    width: 1520px;
-    margin-left: 80px;
+    padding: 40px 40px;
+    width: 1580px;
+    margin-left: 38px;
+    margin-right: 21px;
     background-size: cover;
 }
 
