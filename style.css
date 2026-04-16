@@ -246,6 +246,7 @@ h2, h3 {
     margin-left: 80px;
     background-size: cover;
     margin-top: 50px;
+    
 }
 
 .upcoming-spots h2 {
@@ -300,7 +301,7 @@ h2, h3 {
 
     .locations {
         width: 70%;
-        max-width: 400px;
+        max-width: 360px;
     }
 
     .footer-section nav {
