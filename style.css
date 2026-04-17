@@ -362,6 +362,12 @@ h2, h3 {
     }
 }
 
+@media(max-width: 450px) {
+    .text-container {
+        width: 99%;
+    }
+}
+
 @media (max-width: 1250px) {
     upcoming-spots, .image-large, .types-container {
         width: 90%;
