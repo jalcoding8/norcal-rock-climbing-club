@@ -349,12 +349,13 @@ h2, h3 {
         
     }
 
-    .text-container {
+    .text-container, h3 {
+        font-size: 2em;
         justify-content: center;
         width: 98%;
     }
 
-    .text-container, h3 {
+    .text-container, h2, h3 {
         font-size: 1em;
         text-align: center;
         margin-right: 4px;
