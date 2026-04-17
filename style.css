@@ -365,7 +365,8 @@ h2, h3 {
 @media(max-width: 450px) {
     .text-container {
         width: 99%;
-        margin-left: 2px;
+        margin-left: auto;
+        margin-right: auto;         
     }
 }
 
